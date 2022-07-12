@@ -7,27 +7,14 @@
   "UrlContato": "https://t.me/luffyelbrabo",
   "UrlTermos": "https://raw.githubusercontent.com/luffyelbrabo/TERMOS_DE_USO/main/VPN",
   "CheckUser": "true",
-  "Udp": [
-    {
-      "Porta": "7100"
-     },
-   {
-      "Porta": "7200"
-     },
- {
-      "Porta": "7300"
-     },
- {
-      "Porta": "7400"
-     }
-   ],
+  "UdpPort": "7300",
  "Servers": [
     {
 "Name": "STARLINK",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "avo.minerdso1029.tk",
-      "CheckUser": "jake.minerdso1029.tk:8181/checkUser",
+      "ServerIP": "luffyelbrabo.xyz",
+      "CheckUser": "http://luffyelbrabo.xyz:6888/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
