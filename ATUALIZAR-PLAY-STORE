@@ -1,5 +1,5 @@
 {
-  "Version": "1.6",
+  "Version": "1.7",
   "ReleaseNotes": "NOVA  ATUALIZAÇÃO  DISPONÍVEL 🦸🏻 \n\n SEJA BEM VINDO (A) AO 🎉 👏🏻\n\n LUFFYELBRABO APPS\n\n[VOCÊ SEMPRE ONLINE]!\n\nMANTENHA O APLICATIVO\n SEMPRE ATUALIZANDO 📱\n\n🆚 Versão: 1.6\n\n🔰[🟣 VIVO] com mais opções\npois tem que testa sua região🌎️\n\n🔰🔵 TIM 🔴 CLARO 🟣 VIVO 🟠 Oi\n\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n\n🧑🏻‍💻 Qualquer dificuldade para se\n📱 Conectar entre em contato\n🙋🏻‍♂️ Com seu fornecedor\n🤔 para você ser orientado 👍🏻….",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/ROUBAR-SEUS-DADOS/main/ATUALIZAR-PLAY-STORE",
   "Sms": "https://raw.githubusercontent.com/luffyelbrabo/NET-ONLINE-SMS/main/NET-ONLINE-LUFFYELBRABO-SMS",
@@ -21,7 +21,17 @@
       "PASS": ""
     }
   ], 
- "Networks": [    
+ "Networks": [
+    {
+      "Name": "🚀VIVO ONLINE TODOS DDDS🚀",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1m4598j9mgqzp.cloudfront.net [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "d1m4598j9mgqzp.cloudfront.net",
+      "TlsIP": "52.85.213.82",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
     { 
       "Name": "💜VIVO NOVA [01]🟣", 
       "FLAG": "vivo", 
