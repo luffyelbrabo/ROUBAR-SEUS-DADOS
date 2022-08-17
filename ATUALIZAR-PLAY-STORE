@@ -1,6 +1,6 @@
 {
-  "Version": "1.9",
-  "ReleaseNotes": "SEJA BEM VINDO(A) AO\n\n LUFFYELBRABO APPS\n\nMANTENHA O APLICATIVO\n SEMPRE ATUALIZANDO 📱\n\n🆚 Versão: 1.8\n\n🔰[🟣 VIVO] com mais opções\npois tem que testa sua região🌎️\n\n🔰🔵 TIM 🔴 CLARO 🟣 VIVO 🟠 Oi\n\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n\n🧑🏻‍💻 Qualquer dificuldade para se\n📱 Conectar entre em contato\n🙋🏻‍♂️ Com seu fornecedor\n🤔 para você ser orientado 👍🏻….",
+  "Version": "2.0",
+  "ReleaseNotes": "SEJA BEM VINDO(A) AO\n\n LUFFYELBRABO APPS\n\nMANTENHA O APLICATIVO\n SEMPRE ATUALIZANDO 📱\n\n🆚 Versão: 1.8\n\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n\n🧑🏻‍💻 Qualquer dificuldade para se\n📱 Conectar entre em contato\n🙋🏻‍♂️ Com seu fornecedor\n🤔 para você ser orientado 👍🏻….",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/ROUBAR-SEUS-DADOS/main/ATUALIZAR-PLAY-STORE",
   "Sms": "https://raw.githubusercontent.com/luffyelbrabo/NET-ONLINE-SMS/main/NET-ONLINE-LUFFYELBRABO-SMS",
   "EmailFeedback": "luffyelbrabo@gmail.com",
@@ -33,97 +33,17 @@
       "Info": "Tlsws"
    },
    {
-      "Name": "🔵 TIM [01]",
+      "Name": "🔵TIM NOVA 01",
       "FLAG": "tim",
-      "Payload": "GET wss://texugo.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "texugo.alura.com.br",
-      "TlsIP": "texugo.alura.com.br",
+      "Payload": "GET wss://bam.nr-data.net/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "bam.nr-data.net",
+      "TlsIP": "162.247.241.14",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
    {
-      "Name": "🔵 TIM [02]",
-      "FLAG": "tim",
-      "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "static.r4you.co",
-      "TlsIP": "104.26.5.175",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "🔵 TIM [03]",
-      "FLAG": "tim",
-      "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "static.r4you.co",
-      "TlsIP": "104.26.4.175",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "🔵 TIM [04]",
-      "FLAG": "tim",
-      "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "static.r4you.co",
-      "TlsIP": "172.67.70.43",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "🔵 TIM [05]",
-      "FLAG": "tim",
-      "Payload": "GET wss://blog.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "blog.alura.com.br",
-      "TlsIP": "blog.alura.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "🔵 TIM [06]",
-      "FLAG": "tim",
-      "Payload": "GET wss://empresas.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "empresas.alura.com.br",
-      "TlsIP": "empresas.alura.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "🔵 TIM [07]",
-      "FLAG": "tim",
-      "Payload": "GET wss://www.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "www.alura.com.br",
-      "TlsIP": "www.alura.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },    
-   {
-      "Name": "🔵 TIM [08]",
-      "FLAG": "tim",
-      "Payload": "GET wss://bobcontents.bennuapp.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "bobcontents.bennuapp.com.br",
-      "TlsIP": "bobcontents.bennuapp.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
-   {
-      "Name": "🔵 TIM [09]",
-      "FLAG": "tim",
-      "Payload": "GET wss://m.timbancavirtual.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "m.timbancavirtual.com.br",
-      "TlsIP": "m.timbancavirtual.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
-   {
-      "Name": "🔵 TIM [10]",
+      "Name": "🔵 TIM NOVA 02",
       "FLAG": "tim",
       "Payload": "GET wss://image.mail.c6bank.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "image.mail.c6bank.com.br",
@@ -133,7 +53,7 @@
       "Info": "Tlsws"
    },
    {
-      "Name": "🔵 TIM [11]",
+      "Name": "🔵 TIM NOVA 03",
       "FLAG": "tim",
       "Payload": "GET wss://cdn.c6bank.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "cdn.c6bank.com.br",
@@ -143,7 +63,7 @@
       "Info": "Tlsws"
    },
    {
-      "Name": "🔵 TIM 12",
+      "Name": "🔵TIM NOVA 04",
       "FLAG": "tim",
       "Payload": "GET wss://cloud.mail.c6bank.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "cloud.mail.c6bank.com.br",
