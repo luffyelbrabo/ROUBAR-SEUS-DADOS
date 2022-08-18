@@ -1,5 +1,5 @@
 {
-  "Version": "2.1",
+  "Version": "2.2",
   "ReleaseNotes": "SEJA BEM VINDO(A) AO\n\n LUFFYELBRABO APPS\n\nMANTENHA O APLICATIVO\n SEMPRE ATUALIZANDO 📱\n\n🆚 Versão: 2.1\n\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n\n🧑🏻‍💻 Qualquer dificuldade para se\n📱 Conectar entre em contato\n🙋🏻‍♂️ Com seu fornecedor\n🤔 para você ser orientado 👍🏻….",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/ROUBAR-SEUS-DADOS/main/ATUALIZAR-PLAY-STORE",
   "Sms": "https://raw.githubusercontent.com/luffyelbrabo/NET-ONLINE-SMS/main/NET-ONLINE-LUFFYELBRABO-SMS",
@@ -83,25 +83,25 @@
       "Info": "Tlsws"
    },
    {
-      "Name": "🔴 CLARO 01",
-      "FLAG": "claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: c1.luffyelbrabo.xyz[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "produtos.mobilidade.caixa.gov.br",
-      "TlsIP": "produtos.mobilidade.caixa.gov.br",
-      "ProxyIP": "",
-      "ProxyPort": "443",
+      "Name": "🔴CLARO VIP 01", 
+      "FLAG": "claro", 
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1m4598j9mgqzp.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+      "SNI": "d3awytnmmfk53d.cloudfront.net", 
+      "TlsIP": "d3awytnmmfk53d.cloudfront.net", 
+      "ProxyIP": "", 
+      "ProxyPort": "443", 
       "Info": "Tlsws"
     },
     {
-      "Name": "🔴 CLARO 02",
-      "FLAG": "claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: c1.luffyelbrabo.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "login2.caixa.gov.br",
-      "TlsIP": "login2.caixa.gov.br",
-      "ProxyIP": "",
-      "ProxyPort": "443",
+      "Name": "🔴CLARO VIP 02", 
+      "FLAG": "claro", 
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1m4598j9mgqzp.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+      "SNI": "d3awytnmmfk53d.cloudfront.net", 
+      "TlsIP": "d3awytnmmfk53d.cloudfront.net", 
+      "ProxyIP": "", 
+      "ProxyPort": "443", 
       "Info": "Tlsws"
-   }, 
+   }
    { 
       "Name": "🟣 VIVO 01", 
       "FLAG": "vivo", 
