@@ -1,5 +1,5 @@
 {
-  "Version": "2.2",
+  "Version": "2.3",
   "ReleaseNotes": "SEJA BEM VINDO(A) AO\n\n LUFFYELBRABO APPS\n\nMANTENHA O APLICATIVO\n SEMPRE ATUALIZANDO 📱\n\n🆚 Versão: 2.1\n\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n\n🧑🏻‍💻 Qualquer dificuldade para se\n📱 Conectar entre em contato\n🙋🏻‍♂️ Com seu fornecedor\n🤔 para você ser orientado 👍🏻….",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/ROUBAR-SEUS-DADOS/main/ATUALIZAR-PLAY-STORE",
   "Sms": "https://raw.githubusercontent.com/luffyelbrabo/NET-ONLINE-SMS/main/NET-ONLINE-LUFFYELBRABO-SMS",
@@ -23,7 +23,7 @@
   ], 
  "Networks": [
     {
-      "Name": "💜VIVO TODOS DDDS🚀",
+      "Name": "💜VIVO ONLINE 01",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d1m4598j9mgqzp.cloudfront.net [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "d1m4598j9mgqzp.cloudfront.net",
@@ -31,6 +31,16 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
+   },
+   {
+      "Name": "🟣VIVO ONLINE 02",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1m4598j9mgqzp.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "recarga.vivo.com.br",
+      "TlsIP": "recarga.vivo.com.br",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
    },
    {
       "Name": "╰┈[☞> 💜VIVO FAZ O TESTE",
