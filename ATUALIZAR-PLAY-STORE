@@ -23,16 +23,6 @@
   ], 
  "Networks": [    
    {
-      "Name": "╰┈[☞> 💜VIVO FAZ O TESTE",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "162.247.241.14",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-   },
-   {
       "Name": "🔵TIM NOVA 01",
       "FLAG": "tim",
       "Payload": "GET wss://bam.nr-data.net/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
