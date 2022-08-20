@@ -1,5 +1,5 @@
 {
-  "Version": "2.4",
+  "Version": "2.5",
   "ReleaseNotes": "SEJA BEM VINDO(A) AO\n\n LUFFYELBRABO APPS\n\nMANTENHA O APLICATIVO\n SEMPRE ATUALIZANDO 📱\n\n🆚 Versão: 2.4\n\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n\n🧑🏻‍💻 Qualquer dificuldade para se\n📱 Conectar entre em contato\n🙋🏻‍♂️ Com seu fornecedor\n🤔 para você ser orientado 👍🏻….",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/ROUBAR-SEUS-DADOS/main/ATUALIZAR-PLAY-STORE",
   "Sms": "https://raw.githubusercontent.com/luffyelbrabo/NET-ONLINE-SMS/main/NET-ONLINE-LUFFYELBRABO-SMS",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
  "Servers": [
     {
-"Name": "LUFFYELBRABO 🇧🇷",
+      "Name": "LUFFYELBRABO 🇧🇷",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "luffyelbrabo.xyz",
