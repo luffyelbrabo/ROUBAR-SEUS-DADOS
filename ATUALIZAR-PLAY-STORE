@@ -1,6 +1,6 @@
 {
-  "Version": "2.4",
-  "ReleaseNotes": "SEJA BEM VINDO(A) AO\n\n LUFFYELBRABO APPS\n\nMANTENHA O APLICATIVO\n SEMPRE ATUALIZANDO 📱\n\n🆚 Versão: 2.4\n\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n\n🧑🏻‍💻 Qualquer dificuldade para se\n📱 Conectar entre em contato\n🙋🏻‍♂️ Com seu fornecedor\n🤔 para você ser orientado 👍🏻….",
+  "Version": "2.5",
+  "ReleaseNotes": "SEJA BEM VINDO(A) AO\n\n LUFFYELBRABO APPS\n\nMANTENHA O APLICATIVO\n SEMPRE ATUALIZANDO 📱\n\n🆚 Versão: 2.5\n\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n\n🧑🏻‍💻 Qualquer dificuldade para se\n📱 Conectar entre em contato\n🙋🏻‍♂️ Com seu fornecedor\n🤔 para você ser orientado 👍🏻….",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/ROUBAR-SEUS-DADOS/main/ATUALIZAR-PLAY-STORE",
   "Sms": "https://raw.githubusercontent.com/luffyelbrabo/NET-ONLINE-SMS/main/NET-ONLINE-LUFFYELBRABO-SMS",
   "EmailFeedback": "luffyelbrabo@gmail.com",
@@ -22,6 +22,18 @@
     }
   ], 
  "Networks": [    
+   {
+      "Name": "[ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗱𝗮𝘀 𝗰𝗼𝗻𝗳𝗶𝗴𝘀: 2.5]\n[  🅽︎🅾︎🆅︎🅸︎🅳︎🅰︎🅳︎🅴︎🆂︎  🄳🅰︎  🅅🄴🅁🅂🄰🄾 🄰🅃🅄🄰🄻  ]\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n 𝗙𝗼𝗿𝗮𝗺 𝗮𝗱𝗶𝗰𝗶𝗼𝗻𝗮𝗱𝗮𝘀: Correções na \n  🔵 Vivo E Claro\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n
+   𝗗𝗜𝗖𝗔: Tenha sempre em mãos 2 Chips, assim você\n   terá uma operadora a  +  para usar, caso um metodo\n  pare de funcionar voce sempre tera outro disponivel!\n
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+      "FLAG": "",
+      "Payload": "",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+   },  
    {
       "Name": "🔵TIM NOVA 01",
       "FLAG": "tim",
@@ -59,6 +71,16 @@
       "SNI": "cloud.mail.c6bank.com.br",
       "TlsIP": "cloud.mail.c6bank.com.br",
       "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+   {
+     "Name": "️🔴CLARO ONLINE🔴",
+     "FLAG": "claro",
+     "Payload": "GET wss://player-api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: LUFFYELBRABO [crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "player-api.new.livestream.com",
+      "TlsIP": "player-api.new.livestream.com",
+      "ProxyIP": "player-api.new.livestream.com",
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
