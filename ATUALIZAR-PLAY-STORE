@@ -33,18 +33,6 @@
     }
   ], 
  "Networks": [
-   {
-      "Name": "[ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗱𝗮𝘀 𝗰𝗼𝗻𝗳𝗶𝗴𝘀: 2.6]\n[  🅽︎🅾︎🆅︎🅸︎🅳︎🅰︎🅳︎🅴︎🆂︎  🄳🅰︎  🅅🄴🅁🅂🄰🄾 🄰🅃🅄🄰🄻  ]\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n 𝗙𝗼𝗿𝗮𝗺 𝗮𝗱𝗶𝗰𝗶𝗼𝗻𝗮𝗱𝗮𝘀: Correções na \n  🔵 Vivo E Claro\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n
-   𝗗𝗜𝗖𝗔: Tenha sempre em mãos 2 Chips, assim você\n   terá uma operadora a  +  para usar, caso um metodo\n  pare de funcionar voce sempre tera outro disponivel!\n
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
-      "FLAG": "",
-      "Payload": "",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },  
     {
       "Name": "🔵TIM NOVA 01",
       "FLAG": "tim",
