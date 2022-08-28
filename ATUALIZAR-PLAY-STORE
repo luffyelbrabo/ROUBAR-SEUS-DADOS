@@ -36,7 +36,7 @@
    {
       "Name": "🔵TIM NOVA 01",
       "FLAG": "tim",
-      "Payload": "GET wss://bam.nr-data.net/ HTTP/1.1[crlf]Host: luffyelbrabo.xyzcrlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET wss://bam.nr-data.net/ HTTP/1.1[crlf]Host: luffyelbrabo.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "bam.nr-data.net",
       "TlsIP": "162.247.241.14",
       "ProxyIP": "",
