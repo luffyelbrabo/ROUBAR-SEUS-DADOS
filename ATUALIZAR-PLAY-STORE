@@ -1,5 +1,5 @@
 {
-  "Version": "2.5",
+  "Version": "2.6",
   "ReleaseNotes": "SEJA BEM VINDO (A) AO\nLUFFYELBRABO \n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\nNOVA ATUALIZAÇÃO DISPONÍVEL\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 2.6\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando na primeira opção das operadoras!\n===============================",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/ROUBAR-SEUS-DADOS/main/ATUALIZAR-PLAY-STORE",
   "Sms": "",
@@ -247,7 +247,7 @@
    {
       "Name": "🔴CLARO 2 [SERVIDOR 02]", 
       "FLAG": "claro", 
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1m4598j9mgqzp.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2bkngv8gt8oy4.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
       "SNI": "d3awytnmmfk53d.cloudfront.net", 
       "TlsIP": "d3awytnmmfk53d.cloudfront.net", 
       "ProxyIP": "", 
@@ -257,7 +257,7 @@
     {
       "Name": "🔴CLARO 3 [SERVIDOR 02]", 
       "FLAG": "claro", 
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1m4598j9mgqzp.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2bkngv8gt8oy4.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
       "SNI": "d3awytnmmfk53d.cloudfront.net", 
       "TlsIP": "d3awytnmmfk53d.cloudfront.net", 
       "ProxyIP": "", 
@@ -297,7 +297,7 @@
    {
       "Name": "🟣 VIVO 4 [SERVIDOR 02]",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1m4598j9mgqzp.cloudfront.net [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2bkngv8gt8oy4.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "d1m4598j9mgqzp.cloudfront.net",
       "TlsIP": "52.85.213.82",
       "ProxyIP": "",
@@ -307,7 +307,7 @@
    {
       "Name": "🟣 VIVO 5 [SERVIDOR 02]",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1m4598j9mgqzp.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2bkngv8gt8oy4.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "recarga.vivo.com.br",
       "TlsIP": "recarga.vivo.com.br",
       "ProxyIP": "recarga.vivo.com.br",
