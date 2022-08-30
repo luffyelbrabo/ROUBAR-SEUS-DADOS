@@ -1,6 +1,6 @@
 {
-  "Version": "2.7",
-  "ReleaseNotes": "SEJA BEM VINDO (A) AO\nLUFFYELBRABO \n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\nNOVA ATUALIZAÇÃO DISPONÍVEL\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 2.7\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando na primeira opção das operadoras!\n===============================",
+  "Version": "2.8",
+  "ReleaseNotes": "SEJA BEM VINDO (A) AO\nLUFFYELBRABO \n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\nNOVA ATUALIZAÇÃO DISPONÍVEL\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 2.8\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando na primeira opção das operadoras!\n===============================",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/ROUBAR-SEUS-DADOS/main/ATUALIZAR-PLAY-STORE",
   "Sms": "",
   "EmailFeedback": "luffyelbrabo@gmail.com",
@@ -74,33 +74,13 @@
       "Info": "Tlsws"
    },
    {
-     "Name": "️🔴CLARO ONLINE 01🔴",
-     "FLAG": "claro",
-     "Payload": "GET wss://player-api.new.livestream.com/ HTTP/1.1[crlf]Host: luffyelbrabo.xyz[crlf]Upgrade: LUFFYELBRABO [crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "player-api.new.livestream.com",
-      "TlsIP": "player-api.new.livestream.com",
-      "ProxyIP": "player-api.new.livestream.com",
+      "Name": "✅ CLARO 🔥",
+      "FLAG": "claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1m4598j9mgqzp.cloudfront.net[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "d3uyk7qgi7fgpo.cloudfront.net",
+      "TlsIP": "d3uyk7qgi7fgpo.cloudfront.net",
+      "ProxyIP": "d3uyk7qgi7fgpo.cloudfront.net",
       "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
-   {
-      "Name": "🔴CLARO ONLINE 02🔴", 
-      "FLAG": "claro", 
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1m4598j9mgqzp.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
-      "SNI": "d3awytnmmfk53d.cloudfront.net", 
-      "TlsIP": "d3awytnmmfk53d.cloudfront.net", 
-      "ProxyIP": "", 
-      "ProxyPort": "443", 
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "🔴CLARO ONLINE 03🔴", 
-      "FLAG": "claro", 
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1m4598j9mgqzp.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
-      "SNI": "d3awytnmmfk53d.cloudfront.net", 
-      "TlsIP": "d3awytnmmfk53d.cloudfront.net", 
-      "ProxyIP": "", 
-      "ProxyPort": "443", 
       "Info": "Tlsws"
    },
    {
@@ -235,33 +215,13 @@
       "Info": "Tlsws"
    },
    {
-     "Name": "️🔴CLARO 1 [SERVIDOR 02]",
-     "FLAG": "claro",
-     "Payload": "GET wss://player-api.new.livestream.com/ HTTP/1.1[crlf]Host: cliente-servidor.ml[crlf]Upgrade: LUFFYELBRABO [crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "player-api.new.livestream.com",
-      "TlsIP": "player-api.new.livestream.com",
-      "ProxyIP": "player-api.new.livestream.com",
+      "Name": "🔴 CLARO [SERVIDOR 02]🔥",
+      "FLAG": "claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2bkngv8gt8oy4.cloudfront.net[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "d3uyk7qgi7fgpo.cloudfront.net",
+      "TlsIP": "d3uyk7qgi7fgpo.cloudfront.net",
+      "ProxyIP": "d3uyk7qgi7fgpo.cloudfront.net",
       "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
-   {
-      "Name": "🔴CLARO 2 [SERVIDOR 02]", 
-      "FLAG": "claro", 
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2bkngv8gt8oy4.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
-      "SNI": "d3awytnmmfk53d.cloudfront.net", 
-      "TlsIP": "d3awytnmmfk53d.cloudfront.net", 
-      "ProxyIP": "", 
-      "ProxyPort": "443", 
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "🔴CLARO 3 [SERVIDOR 02]", 
-      "FLAG": "claro", 
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2bkngv8gt8oy4.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
-      "SNI": "d3awytnmmfk53d.cloudfront.net", 
-      "TlsIP": "d3awytnmmfk53d.cloudfront.net", 
-      "ProxyIP": "", 
-      "ProxyPort": "443", 
       "Info": "Tlsws"
    },
    {
