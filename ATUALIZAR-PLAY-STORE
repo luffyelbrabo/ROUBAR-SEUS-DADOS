@@ -137,8 +137,7 @@
       "Name": "🟡 OI [01]",
       "FLAG": "oi",
       "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: luffyelbrabo.xyz\nUpgrade: ws\n\n",
-
-"SNI": "www.hbogo.com.br",
+      "SNI": "www.hbogo.com.br",
       "TlsIP": "www.hbogo.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
@@ -278,8 +277,7 @@
       "Name": "🟡 OI 1 [SERVIDOR 02]",
       "FLAG": "oi",
       "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: cliente-servidor.ml\nUpgrade: ws\n\n",
-
-"SNI": "www.hbogo.com.br",
+      "SNI": "www.hbogo.com.br",
       "TlsIP": "www.hbogo.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
