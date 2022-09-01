@@ -1,6 +1,6 @@
 {
-  "Version": "2.9",
-  "ReleaseNotes": "SEJA BEM VINDO (A) AO\nLUFFYELBRABO \n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\nNOVA ATUALIZAÇÃO DISPONÍVEL\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 2.8\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando na primeira opção das operadoras!\n===============================",
+  "Version": "3.0",
+  "ReleaseNotes": "SEJA BEM VINDO (A) AO\nLUFFYELBRABO \n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\nNOVA ATUALIZAÇÃO DISPONÍVEL\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 3.0\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando na primeira opção das operadoras!\n===============================",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/ROUBAR-SEUS-DADOS/main/ATUALIZAR-PLAY-STORE",
   "Sms": "",
   "EmailFeedback": "luffyelbrabo@gmail.com",
@@ -80,6 +80,16 @@
       "SNI": "d3uyk7qgi7fgpo.cloudfront.net",
       "TlsIP": "d3uyk7qgi7fgpo.cloudfront.net",
       "ProxyIP": "d3uyk7qgi7fgpo.cloudfront.net",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+   {
+      "Name": "🟣 VIVO FAZ O TESTE",
+      "FLAG": "vivo",
+      "Payload": "GET wss://api.digital.vivo.com.br HTTP/1.1[crlf]Host: luffyelbrabo.xyz[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "api.digital.vivo.com.br",
+      "TlsIP": "104.18.7.80",
+      "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
@@ -220,6 +230,16 @@
       "SNI": "d3uyk7qgi7fgpo.cloudfront.net",
       "TlsIP": "d3uyk7qgi7fgpo.cloudfront.net",
       "ProxyIP": "d3uyk7qgi7fgpo.cloudfront.net",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+   {
+      "Name": "🟣VIVO FAZ O TESTE [SERVIDOR 02]",
+      "FLAG": "vivo",
+      "Payload": "GET wss://api.digital.vivo.com.br HTTP/1.1[crlf]Host: cliente-servidor.ml[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "api.digital.vivo.com.br",
+      "TlsIP": "104.18.7.80",
+      "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
