@@ -33,7 +33,7 @@
     }
   ], 
  "Networks": [
-   {
+    {
       "Name": "🔵TIM NOVA 01",
       "FLAG": "tim",
       "Payload": "GET wss://bam.nr-data.net/ HTTP/1.1[crlf]Host: luffyelbrabo.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
@@ -146,7 +146,7 @@
    {
       "Name": "🟣 VIVO 05",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dmg14maikzuwf.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dmg14maikzuwf.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "recarga.vivo.com.br",
       "TlsIP": "recarga.vivo.com.br",
       "ProxyIP": "recarga.vivo.com.br",
