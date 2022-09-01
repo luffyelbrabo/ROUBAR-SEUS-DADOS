@@ -1,6 +1,6 @@
 {
-  "Version": "3.0",
-  "ReleaseNotes": "SEJA BEM VINDO (A) AO\nLUFFYELBRABO \n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\nNOVA ATUALIZAÇÃO DISPONÍVEL\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 3.0\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando na primeira opção das operadoras!\n===============================",
+  "Version": "3.1",
+  "ReleaseNotes": "SEJA BEM VINDO (A) AO\nLUFFYELBRABO \n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\nNOVA ATUALIZAÇÃO DISPONÍVEL\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 3.1\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando na primeira opção das operadoras!\n===============================",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/ROUBAR-SEUS-DADOS/main/ATUALIZAR-PLAY-STORE",
   "Sms": "",
   "EmailFeedback": "luffyelbrabo@gmail.com",
@@ -74,12 +74,22 @@
       "Info": "Tlsws"
    },
    {
-      "Name": "🔴 CLARO 🔥",
+      "Name": "🔴 CLARO ONLINE 01🔥",
       "FLAG": "claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1m4598j9mgqzp.cloudfront.net[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
-      "SNI": "d3uyk7qgi7fgpo.cloudfront.net",
-      "TlsIP": "d3uyk7qgi7fgpo.cloudfront.net",
-      "ProxyIP": "d3uyk7qgi7fgpo.cloudfront.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dmg14maikzuwf.cloudfront.net[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "dnnsjdj5swfc3.cloudfront.net",
+      "TlsIP": "dnnsjdj5swfc3.cloudfront.net",
+      "ProxyIP": "dnnsjdj5swfc3.cloudfront.net",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+   {
+      "Name": "🔴 CLARO ONLINE 02🔥",
+      "FLAG": "claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dmg14maikzuwf.cloudfront.net[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "dnnsjdj5swfc3.cloudfront.net",
+      "TlsIP": "dnnsjdj5swfc3.cloudfront.net",
+      "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
@@ -126,8 +136,8 @@
    {
       "Name": "🟣 VIVO 04",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1m4598j9mgqzp.cloudfront.net [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "d1m4598j9mgqzp.cloudfront.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dmg14maikzuwf.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "dmg14maikzuwf.cloudfront.net",
       "TlsIP": "52.85.213.82",
       "ProxyIP": "",
       "ProxyPort": "443",
@@ -136,7 +146,7 @@
    {
       "Name": "🟣 VIVO 05",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1m4598j9mgqzp.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dmg14maikzuwf.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "recarga.vivo.com.br",
       "TlsIP": "recarga.vivo.com.br",
       "ProxyIP": "recarga.vivo.com.br",
