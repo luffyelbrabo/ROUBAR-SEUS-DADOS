@@ -143,7 +143,7 @@
             "ProxyPort": "443",
             "Info": "Tlsws"
         },
-          {
+        {
             "Name": "🟣 VIVO 13",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host: d3kiqyqcjaw3d7.cloudfront.net [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
