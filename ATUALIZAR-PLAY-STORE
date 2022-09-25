@@ -30,7 +30,7 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    }
+    },
   ], 
  "Networks": [    
    {
