@@ -32,19 +32,7 @@
       "PASS": ""
     }
   ], 
- "Networks": [
-    {
-      "Name": "[ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗱𝗮𝘀 𝗰𝗼𝗻𝗳𝗶𝗴𝘀: 4.2]\n[  🅽︎🅾︎🆅︎🅸︎🅳︎🅰︎🅳︎🅴︎🆂︎  🄳🅰︎  🅅🄴🅁🅂🄰🄾 🄰🅃🅄🄰🄻  ]\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n 𝗙𝗼𝗿𝗮𝗺 𝗮𝗱𝗶𝗰𝗶𝗼𝗻𝗮𝗱𝗮𝘀: Correções na \n VIVO E TIM , A CLARO ESTÁ OFF-LINE\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n
-   𝗗𝗜𝗖𝗔: Tenha sempre em mãos 2 Chips, assim você\n   terá uma operadora a  +  para usar, caso um metodo\n  pare de funcionar voce sempre tera outro disponivel!\n
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
-      "FLAG": "",
-      "Payload": "",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-   },
+ "Networks": [    
    {
           "Name": "🔵 1• ༺Tim༻༺Nova༻",
           "FLAG": "tim",
