@@ -1,6 +1,6 @@
 {
-  "Version": "4.1",
-  "ReleaseNotes": "SEJA BEM VINDO (A) AO\nLUFFYELBRABO \n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\nNOVA ATUALIZAÇÃO DISPONÍVEL\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 4.1\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando na primeira opção das operadoras!\n===============================",
+  "Version": "4.2",
+  "ReleaseNotes": "SEJA BEM VINDO (A) AO\nLUFFYELBRABO \n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\nNOVA ATUALIZAÇÃO DISPONÍVEL\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 4.2\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando na primeira opção das operadoras!\n===============================",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/ROUBAR-SEUS-DADOS/main/ATUALIZAR-PLAY-STORE",
   "Sms": "",
   "EmailFeedback": "luffyelbrabo@gmail.com",
@@ -30,10 +30,22 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    },
+    }
   ], 
  "Networks": [
     {
+      "Name": "[ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗱𝗮𝘀 𝗰𝗼𝗻𝗳𝗶𝗴𝘀: 4.2]\n[  🅽︎🅾︎🆅︎🅸︎🅳︎🅰︎🅳︎🅴︎🆂︎  🄳🅰︎  🅅🄴🅁🅂🄰🄾 🄰🅃🅄🄰🄻  ]\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n 𝗙𝗼𝗿𝗮𝗺 𝗮𝗱𝗶𝗰𝗶𝗼𝗻𝗮𝗱𝗮𝘀: Correções na \n VIVO E TIM , A CLARO ESTÁ OFF-LINE\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n
+   𝗗𝗜𝗖𝗔: Tenha sempre em mãos 2 Chips, assim você\n   terá uma operadora a  +  para usar, caso um metodo\n  pare de funcionar voce sempre tera outro disponivel!\n
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+      "FLAG": "",
+      "Payload": "",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+   },
+   {
           "Name": "🔵 1• ༺Tim༻༺Nova༻",
           "FLAG": "tim",
           "Payload": "GET wss://duvidas.ampli.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
@@ -52,59 +64,29 @@
           "ProxyIP": "",
           "ProxyPort": "443",
           "Info": "Tlsws"
-     },
-     {
-           "Name": "🔵 3• ༺Tim༻༺Nova༻",
-           "FLAG": "tim",
-           "Payload": "GET wss://duvidas.ampli.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Origin: google.com[crlf][crlf]",
-           "SNI": "duvidas.ampli.com.br",
-           "TlsIP": "104.16.53.111",
-           "ProxyIP": "",
-           "ProxyPort": "443",
-           "Info": "Tlsws"
-     },
-     {
-           "Name": "🔵 4• ༺Tim༻༺Nova༻",
-           "FLAG": "tim",
-           "Payload": "GET wss://duvidas.ampli.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Origin: google.com[crlf][crlf]",
-            "SNI": "duvidas.ampli.com.br",
-            "TlsIP": "104.16.53.111",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
          },
          {
-             "Name": "🔵 5• ༺Tim༻༺Nova༻",
+             "Name": "🔵 3• ༺Tim༻༺Nova༻", 
              "FLAG": "tim",
-             "Payload": "GET / HTTP/1.1[crlf]Host: luffyelbrabo.xyz[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+             "Payload": "GET / HTTP/1.1[crlf]Host: online.cliente-atendimento.ga[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
              "SNI": "cursolivre.ampli.com.br",
              "TlsIP": "cursolivre.ampli.com.br",
              "ProxyIP": "cursolivre.ampli.com.br",
              "ProxyPort": "443",
              "Info": "Tlsws"
-        },
+         },
+         {
+             "Name": "🔵 4• ༺Tim༻༺Nova༻",
+             "FLAG": "tim",
+             "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+             "SNI": "cursolivre.ampli.com.br",
+             "TlsIP": "cursolivre.ampli.com.br",
+             "ProxyIP": "cursolivre.ampli.com.br",
+             "ProxyPort": "443",
+             "Info": "Tlsws"
+        },       
         {
-             "Name": "🔵 6• ༺Tim༻༺Nova༻",
-             "FLAG": "tim",
-             "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
-             "SNI": "duvidas.ampli.com.br",
-             "TlsIP": "104.16.53.111",
-             "ProxyIP": "",
-             "ProxyPort": "443",
-             "Info": "Tlsws" 
-   },
-   { 
-             "Name": "🔵 7• ༺Tim༻༺Nova༻",
-             "FLAG": "tim",
-             "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: t.me/luffyelbrabo[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-             "SNI": "duvidas.ampli.com.br", 
-             "TlsIP": "104.16.53.111",
-             "ProxyIP": "",
-             "ProxyPort": "443",
-             "Info": "Tlsws" 
-       },
-       {
-             "Name": "🔵 8• ༺Tim༻༺Nova༻",
+             "Name": "🔵 5• ༺Tim༻༺Nova༻",
              "FLAG": "tim",
              "Payload": "GET wss://terms.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
              "SNI": "terms.c6bank.com.br",
@@ -112,28 +94,8 @@
              "ProxyIP": "",
              "ProxyPort": "443",
              "Info": "Tlsws"
-      },
-      {
-            "Name": "🔵 9• ༺Tim༻༺Nova༻",
-            "FLAG": "tim",
-            "Payload": "GET wss://js-agent.newrelic.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "js-agent.newrelic.com",
-            "TlsIP": "optim.tenb.xyz",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-      },
-      {
-            "Name": "🔵 10• ༺Tim༻༺Nova༻",
-            "FLAG": "tim",
-            "Payload": "GET wssb//js-agent.newrelic.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "js-agent.newrelic.com",
-            "TlsIP": "tim.netssh.xyz",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-      },
-      {
+        },       
+        {
             "Name": "🟣 1• ༺Vivo༻༺Nova༻",
             "FLAG": "vivo",
             "Payload": "GET wss://lojaempresas.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
@@ -142,8 +104,8 @@
             "ProxyIP": "",
             "ProxyPort": "443",
             "Info": "Tlsws"
-      },
-      {
+        },
+        {
             "Name": "🟣 2• ༺Vivo༻༺Nova༻",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
@@ -272,86 +234,26 @@
             "ProxyIP": "recarga.vivo.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
-        },      
-         {
+        },     
+        {
             "Name": "🔴 1• ༺Claro༻༺Nova༻",
             "FLAG": "claro",
-            "Payload": "GET http://www.claro.com.br HTTP/1.0[crlf]Host: http://www.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "209.14.70.58",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-    },
-    {
+            "Payload": "GET wss://cdnclaro2.wooza.com.br/ HTTP/1.1[crlf]Host: online.cliente-atendimento.ga[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "cdnclaro2.wooza.com.br",
+            "TlsIP": "cdnclaro2.wooza.com.br",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
             "Name": "🔴 2• ༺Claro༻༺Nova༻",
             "FLAG": "claro",
-            "Payload": "GET http://www.claro.com.br HTTP/1.0[crlf]Host: http://www.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "20.206.79.123",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-    },
-    { 
-            "Name": "🔴 3• ༺Claro༻༺Nova༻",
-            "FLAG": "claro",
-            "Payload": "GET http://www.claro.com.br HTTP/1.0[crlf]Host: http://www.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "20.226.48.38",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-    },
-    {
-            "Name": "🔴 4• ༺Claro༻༺Nova༻",
-            "FLAG": "claro",
-            "Payload": "GET http://www.claro.com.br HTTP/1.0[crlf]Host: http://www.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "20.226.112.175",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-    },
-    {
-            "Name": "🔴 5• ༺Claro༻༺Nova༻",
-            "FLAG": "claro",
-            "Payload": "GET http://bonuz.claro.com.br HTTP/1.0[crlf]Host: http://contaonline2.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "209.14.70.58",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-    },
-    {
-            "Name": "🔴 6• ༺Claro༻༺Nova༻",
-            "FLAG": "claro",
-            "Payload": "GET http://bonuz.claro.com.br HTTP/1.0[crlf]Host: http://contaonline2.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "20.206.79.123",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-    },
-    {
-            "Name": "🔴 7• ༺Claro༻༺Nova༻",
-            "FLAG": "claro",
-            "Payload": "GET http://bonuz.claro.com.br HTTP/1.0[crlf]Host: http://contaonline2.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "20.226.48.38",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-       },
-       {
-            "Name": "🔴 8• ༺Claro༻༺Nova༻",
-            "FLAG": "claro",
-            "Payload": "GET http://bonuz.claro.com.br HTTP/1.0[crlf]Host: http://contaonline2.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "20.226.112.175",
-            "ProxyPort": "80",
-            "Info": "Proxy"
+            "Payload": "GET wss://cdnclaro2.wooza.com.br/ HTTP/1.1[crlf]Host: online.cliente-atendimento.ga[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "cdnclaro2.wooza.com.br",
+            "TlsIP": "cdnclaro2.wooza.com.br",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
         },
         {
             "Name": "🟡 1• ༺OI༻༺Nova༻",
