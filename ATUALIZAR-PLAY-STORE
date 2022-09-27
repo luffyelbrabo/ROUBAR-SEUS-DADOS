@@ -1,6 +1,6 @@
 {
-  "Version": "4.4",
-  "ReleaseNotes": "SEJA BEM VINDO (A) AO\nLUFFYELBRABO \n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\nNOVA ATUALIZAÇÃO DISPONÍVEL\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 4.4\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando na primeira opção das operadoras!\n===============================",
+  "Version": "4.5",
+  "ReleaseNotes": "SEJA BEM VINDO (A) AO\nLUFFYELBRABO \n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\nNOVA ATUALIZAÇÃO DISPONÍVEL\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 4.5\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando na primeira opção das operadoras!\n===============================",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/ROUBAR-SEUS-DADOS/main/ATUALIZAR-PLAY-STORE",
   "Sms": "",
   "EmailFeedback": "luffyelbrabo@gmail.com",
@@ -206,8 +206,8 @@
         {
             "Name": "🟣 13• ༺Vivo༻༺Nova༻",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: d1b9dhhoh84ffc.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "d1b9dhhoh84ffc.cloudfront.net",
+            "Payload": "GET / HTTP/1.1[crlf]Host: d3fxjdna08l334.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "d3fxjdna08l334.cloudfront.net",
             "TlsIP": "52.85.213.82",
             "ProxyIP": "",
             "ProxyPort": "443",
@@ -216,7 +216,7 @@
       {
             "Name": "🟣 14• ༺Vivo༻༺Nova༻",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: d1b9dhhoh84ffc.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: d3fxjdna08l334.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "recarga.vivo.com.br",
             "TlsIP": "recarga.vivo.com.br",
             "ProxyIP": "recarga.vivo.com.br",
