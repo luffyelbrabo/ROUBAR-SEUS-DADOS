@@ -1,6 +1,6 @@
 {
-  "Version": "4.6",
-  "ReleaseNotes": "SEJA BEM VINDO (A) AO\nLUFFYELBRABO \n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\nNOVA ATUALIZAÇÃO DISPONÍVEL\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 4.6\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando na primeira opção das operadoras!\n===============================",
+  "Version": "4.7",
+  "ReleaseNotes": "SEJA BEM VINDO (A)\n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\nNOVA ATUALIZAÇÃO DISPONÍVEL\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 4.7\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando na primeira opção das operadoras!\n===============================",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/ROUBAR-SEUS-DADOS/main/ATUALIZAR-PLAY-STORE",
   "Sms": "",
   "EmailFeedback": "luffyelbrabo@gmail.com",
@@ -10,19 +10,19 @@
   "UdpPort": "7300",
  "Servers": [
     {
-      "Name": "LUFFYELBRABO 🇧🇷",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "luffyelbrabo.xyz",
-      "CheckUser": "http://luffyelbrabo.xyz:6888/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+            "Name": "BRASIL 🇧🇷",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "luffyelbrabo.xyz",
+            "CheckUser": "http://luffyelbrabo.xyz:6888/checkUser",
+            "ServerPort": "22",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
     },
   ], 
  "Networks": [    
-   {
+       {
             "Name": "🔵 1• ༺Tim༻༺Nova༻",
             "FLAG": "tim",
             "Payload": "GET wss://auth.of.c6bank.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
@@ -73,21 +73,21 @@
             "Info": "Tlsws"
         },
         {
-            "Name": "🔴 1• ༺Claro༻༺Nova༻",
+            "Name": "🔴 1• ༺Claro༻༺Nova༻", 
             "FLAG": "claro",
-            "Payload": "GET wss://cdnclaro2.wooza.com.br/ HTTP/1.1[crlf]Host: online.cliente-atendimento.ga[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "cdnclaro2.wooza.com.br",
-            "TlsIP": "cdnclaro2.wooza.com.br",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
+            "Payload": "GET http://minhaclaroresidencial.claro.com.br HTTP/1.0[crlf]Host: [app_host]http://minhaclaroresidencial.claro.com.br[crlf]Conex?o: keep-alive[crlf] User-Agent: Atualizar [crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
         },
         {
-            "Name": "🔴 2• ༺Claro༻༺Nova༻",
+            "Name": "🔴 2• ༺Claro༻༺Nova༻",        
             "FLAG": "claro",
-            "Payload": "GET wss://cdnclaro2.wooza.com.br/ HTTP/1.1[crlf]Host: online.cliente-atendimento.ga[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "cdnclaro2.wooza.com.br",
-            "TlsIP": "cdnclaro2.wooza.com.br",
+            "Payload": "GET sni://Atendimento.descomplica.com.br HTTP/1.3[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "SNI": "Atendimento.descomplica.com.br",
+            "TlsIP": "Atendimento.descomplica.com.br",
             "ProxyIP": "",
             "ProxyPort": "443",
             "Info": "Tlsws"
@@ -211,7 +211,27 @@
             "ProxyIP": "",
             "ProxyPort": "443",
             "Info": "Tlsws"
-        },      
+        },
+        {
+            "Name": "🟣 13• ༺Vivo༻༺Nova༻",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "104.18.6.80",
+            "ProxyIP": "104.18.6.80",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🟣 14• ༺Vivo༻༺Nova༻",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.7.80",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },     
         {
             "Name": "🟡 1• ༺OI༻༺Nova༻",
             "FLAG": "oi",
