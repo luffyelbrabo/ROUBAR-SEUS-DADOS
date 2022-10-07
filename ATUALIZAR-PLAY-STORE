@@ -1,6 +1,6 @@
 {
-  "Version": "4.7",
-  "ReleaseNotes": "SEJA BEM VINDO (A)\n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\nNOVA ATUALIZAÇÃO DISPONÍVEL\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 4.7\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando na primeira opção das operadoras!\n===============================",
+  "Version": "4.8",
+  "ReleaseNotes": "SEJA BEM VINDO (A)\n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\nNOVA ATUALIZAÇÃO DISPONÍVEL\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 4.8\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando na primeira opção das operadoras!\n===============================",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/ROUBAR-SEUS-DADOS/main/ATUALIZAR-PLAY-STORE",
   "Sms": "",
   "EmailFeedback": "luffyelbrabo@gmail.com",
@@ -24,23 +24,23 @@
  "Networks": [    
        {
             "Name": "🔵 1• ༺Tim༻༺Nova༻",
-            "FLAG": "tim",
-            "Payload": "GET wss://auth.of.c6bank.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "auth.of.c6bank.com.br",
-            "TlsIP": "172.64.144.237",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
+             "FLAG": "tim",
+             "Payload": "GET wss://support.deezer.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
+             "SNI": "support.deezer.com",
+             "TlsIP": "104.16.51.111",
+             "ProxyIP": "",
+             "ProxyPort": "443",
+             "Info": "Tlsws"
         },
         {
             "Name": "🔵 2• ༺Tim༻༺Nova༻",
-            "FLAG": "tim",
-            "Payload": "GET wss://cdn.c6bank.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "cdn.c6bank.com.br",
-            "TlsIP": "cdn.c6bank.com.br",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
+             "FLAG": "tim",
+             "Payload": "GET wss://support.deezer.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
+             "SNI": "support.deezer.com",
+             "TlsIP": "104.16.51.111",
+             "ProxyIP": "",
+             "ProxyPort": "443",
+             "Info": "Tlsws"
         },
         {
             "Name": "🔵 3• ༺Tim༻༺Nova༻",
