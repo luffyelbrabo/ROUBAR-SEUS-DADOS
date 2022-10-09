@@ -1,6 +1,6 @@
 {
-    "Version": "5.2",
-    "ReleaseNotes": "SEJA BEM VINDO (A)\n AO LUFFY NET 5G\n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 5.2\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando em servisores!\n===============================",   
+    "Version": "5.1",
+    "ReleaseNotes": "SEJA BEM VINDO (A)\n AO LUFFY NET 5G\n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 5.1\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando em servisores!\n===============================",   
     "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/ROUBAR-SEUS-DADOS/main/ATUALIZAR-PLAY-STORE",
     "Sms": "",
     "EmailFeedback": "",
@@ -25,17 +25,7 @@
             "PASS": ""
         }
     ],
-    "Networks": [
-       {
-            "Name": "[ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗱𝗮𝘀 𝗰𝗼𝗻𝗳𝗶𝗴𝘀: 5.2][🅽︎🅾︎🆅︎🅸︎🅳︎🅰︎🅳︎🅴︎🆂︎  🄳🅰︎  🅅🄴🅁🅂🄰🄾 🄰🅃🅄🄰🄻]▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 𝗙𝗼𝗿𝗮𝗺 𝗮𝗱𝗶𝗰𝗶𝗼𝗻𝗮𝗱𝗮𝘀: Correções na   🔵 TIM▬▬▬▬▬▬▬▬▬▬▬▬▬▬    𝗗𝗜𝗖𝗔: Tenha sempre em mãos 2 Chips, assim você   terá uma operadora a  +  para usar, caso um metodo  pare de funcionar voce sempre tera outro disponivel! ▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
-            "FLAG": "tim",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Tlsws"
-        },
+    "Networks": [      
         {
             "Name": "🔵 1• ༺Tim༻༺Nova༻",
             "FLAG": "tim",
