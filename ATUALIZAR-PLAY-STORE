@@ -1,16 +1,20 @@
 {
-  "Version": "5.0",
-  "ReleaseNotes": "SEJA BEM VINDO (A)\n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\nNOVA ATUALIZAÇÃO DISPONÍVEL\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 5.0\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando na primeira opção das operadoras!\n===============================",
-  "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/ROUBAR-SEUS-DADOS/main/ATUALIZAR-PLAY-STORE",
-  "Sms": "",
-  "EmailFeedback": "luffyelbrabo@gmail.com",
-  "UrlContato": "https://t.me/luffyelbrabo",
-  "UrlTermos": "https://raw.githubusercontent.com/luffyelbrabo/TERMOS_DE_USO/main/VPN",
-  "CheckUser": "true",
-  "UdpPort": "7300",
- "Servers": [
-    {
-            "Name": "BRASIL 🇧🇷",
+    "Version": "5.1",
+    "ReleaseNotes": "SEJA BEM VINDO (A)\n AO LUFFY NET 5G\n\nMANTENHA O APLICATIVO\nSEMPRE ATUALIZADO\n\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 5.1\n•••••••••••••••••••••••••••••••••••••••••••••••••\n✅ NOVAS OPÇÕES ADICIONADAS\n🔰 🔵\n===============================\nVeja as novidades apos atualizar\nclicando em servisores!\n===============================",   
+    "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/ROUBAR-SEUS-DADOS/main/ATUALIZAR-PLAY-STORE",
+    "Sms": "",
+    "EmailFeedback": "",
+    "UrlContato": "",
+    "UrlTermos": "https://raw.githubusercontent.com/luffyelbrabo/TERMOS_DE_USO/main/VPN",
+    "CheckUser": "true",
+    "Udp": [
+        {
+            "Porta": "7300"
+        }
+    ],
+    "Servers": [
+        {
+            "Name": "[ 𝗩𝗲𝗿𝘀𝗮̃𝗼 𝗱𝗮𝘀 𝗰𝗼𝗻𝗳𝗶𝗴𝘀: 5.1][🅽︎🅾︎🆅︎🅸︎🅳︎🅰︎🅳︎🅴︎🆂︎  🄳🅰︎  🅅🄴🅁🅂🄰🄾 🄰🅃🅄🄰🄻]▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 𝗙𝗼𝗿𝗮𝗺 𝗮𝗱𝗶𝗰𝗶𝗼𝗻𝗮𝗱𝗮𝘀: Correções na   🔵 TIM▬▬▬▬▬▬▬▬▬▬▬▬▬▬    𝗗𝗜𝗖𝗔: Tenha sempre em mãos 2 Chips, assim você   terá uma operadora a  +  para usar, caso um metodo  pare de funcionar voce sempre tera outro disponivel! ▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "luffyelbrabo.xyz",
@@ -19,13 +23,13 @@
             "SSLPort": "443",
             "USER": "",
             "PASS": ""
-    },
-  ], 
- "Networks": [    
-       {
+        }
+    ],
+    "Networks": [
+        {
             "Name": "🔵 1• ༺Tim༻༺Nova༻",
             "FLAG": "tim",
-            "Payload": "GET wss://support.deezer.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "Payload": "GET wss://support.deezer.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "support.deezer.com",
             "TlsIP": "104.16.51.111",
             "ProxyIP": "",
@@ -35,9 +39,9 @@
         {
             "Name": "🔵 2• ༺Tim༻༺Nova༻",
             "FLAG": "tim",
-            "Payload": "GET wss://cdn.c6bank.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "cdn.c6bank.com.br",
-            "TlsIP": "cdn.c6bank.com.br",
+            "Payload": "GET wss://support.deezer.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "support.deezer.com",
+            "TlsIP": "104.16.51.111",
             "ProxyIP": "",
             "ProxyPort": "443",
             "Info": "Tlsws"
@@ -45,7 +49,7 @@
         {
             "Name": "🔵 3• ༺Tim༻༺Nova༻",
             "FLAG": "tim",
-            "Payload": "GET wss://ajuda.c6bank.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET wss:/ajuda.c6bank.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "ajuda.c6bank.com.br",
             "TlsIP": "104.16.236.16",
             "ProxyIP": "",
@@ -73,17 +77,17 @@
             "Info": "Tlsws"
         },
         {
-            "Name": "🔴 1• ༺Claro༻༺Nova༻", 
+            "Name": "🔴 1• ༺Claro༻༺Nova༻",
             "FLAG": "claro",
-            "Payload": "GET sni://Atendimento.descomplica.com.br HTTP/1.3[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]"",
-            "SNI": "Atendimento.descomplica.com.br",
-            "TlsIP": "Atendimento.descomplica.com.br",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
+            "Payload": "GET http://minhaclaroresidencial.claro.com.br HTTP/1.0[crlf]Host: [app_host]http://minhaclaroresidencial.claro.com.br[crlf]Conex?o: keep-alive[crlf] User-Agent: Atualizar [crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
         },
         {
-            "Name": "🔴 2• ༺Claro༻༺Nova༻",        
+            "Name": "🔴 2• ༺Claro༻༺Nova༻",
             "FLAG": "claro",
             "Payload": "GET sni://Atendimento.descomplica.com.br HTTP/1.3[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "SNI": "Atendimento.descomplica.com.br",
@@ -212,26 +216,6 @@
             "ProxyPort": "443",
             "Info": "Tlsws"
         },
-        {
-            "Name": "🟣 13• ༺Vivo༻༺Nova༻",
-            "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "104.18.6.80",
-            "ProxyIP": "104.18.6.80",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "🟣 14• ༺Vivo༻༺Nova༻",
-            "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.18.7.80",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },     
         {
             "Name": "🟡 1• ༺OI༻༺Nova༻",
             "FLAG": "oi",
